@@ -1,4 +1,5 @@
 # prueba
 Este es un repo de prueba
-Este curso vale
-nos vamos
+1. Este curso vale
+2. Nos vamos
+3. Caray
